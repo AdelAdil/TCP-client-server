@@ -29,7 +29,7 @@ The protocol transfers files of any size, by splitting the file to packets of si
 
 5- Payload
 
-6- Wiindow sizeh
+6- Wiindow size
 
 The header fields are separated by semicolons. And are serialized and deserialized by special methods in both programs.
 
